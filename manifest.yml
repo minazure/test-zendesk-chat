@@ -1,5 +1,5 @@
 ---
 applications:
- - name: test zendesk chat
+ - name: intween-zendesk-chat
    random-route: true
    memory: 256M
